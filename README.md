@@ -13,3 +13,12 @@ Comment on Blog Posts: Logged-in users can leave comments on blog posts.
 
 ## Getting Started
 
+To get started log in
+
+you can access your profile to create blog posts
+
+you can access blog posts to add comments
+
+## Contacts
+
+Github: https://github.com/adamrobinson55
